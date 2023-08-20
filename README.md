@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/schnipdip/Sourcerer/blob/ace6eecd7ced289f5097c5d8f71baa97bf5e6dfc/img/Sourcerer%20Pixel%20Art%20Logo%202x2.jpg">
+  <img src="https://github.com/schnipdip/Sourcerer/blob/53c837bb56bd50df17968a399ab848befee21385/img/Sourcerer%20Pixel%20Art%20Logo%202x2%20no%20bg.png">
     </img>
 </p>
 
